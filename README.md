@@ -1,8 +1,15 @@
 <div align="center" width="300">
-    <img align="center" src="assets/fondoFoto.png" width="" style="border: 2px solid #fff; border-radius: 50px; margin-bottom: 25px;">
+    <img align="center" src="assets/bannergithub.png" width="" style="border: 2px solid #fff; border-radius: 5px; margin-bottom: 25px;">
 </div>
 
-<h1 align="center">¡Hola, mundo! 👋 Soy Jeferson</h1>
+<h1 align="center">¡Hola, mundo! 👋</h1>
+
+<div align="center" style="margin:15px;">
+    <a href="google.com"><img src="assets/linkedin.svg" style="margin: 0 25px;"></a>
+    <a href="google.com"><img src="assets/codepen.svg" style="margin: 0 25px;"></a>
+    <a href="google.com"><img src="assets/web.svg" style="margin: 0 25px;"></a>
+
+</div>
 
 ![](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
@@ -12,11 +19,9 @@
 
 ### Programador Autodidacta 🤓 | Apasionado por la Tecnología 🖥️ | Amante del Café ☕ | Lofi Chill 🎵 | 
 
-¡Bienvenido(a) a mi rincón digital! Soy un apasionado desarrollador con experiencia en la creación de soluciones tecnológicas innovadoras que talvez te pueda interesar. Me encanta explorar nuevas tecnologías y contribuir al mundo del código abierto.
+¡Bienvenido(a) a mi rincón digital! Soy un apasionado desarrollador que busca soluciones tecnológicas y entregar todo de mi. Me encanta explorar nuevas tecnologías y contribuir al mundo del código abierto.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDark)](https://github.com/anuraghazra/github-readme-stats)
-
-> Programar es como componer poesía para máquinas, donde cada línea de código es una estrofa que da vida a la sinfonía de la tecnología., __Jeferson__
+> Programar es como componer poesía para máquinas, donde cada línea de código es una estrofa que da vida a la sinfonía de la tecnología. __Jeferson__
 
 ## 💻 Tecnologías y Herramientas
 
@@ -26,6 +31,8 @@
  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosueDark)](https://github.com/anuraghazra/github-readme-stats)
 ### **Bases de Datos:** 
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -46,12 +53,18 @@
 ## 🚀 Proyectos Destacados
 
 ### [Lia IA Simulacion](enlace-al-proyecto-1)
-Descripción breve y emocionante sobre el proyecto. ¡Incluye algunas estadísticas impresionantes y logros destacados!
+Lia, es una asistente de voz que simula el funcionamiento de una Inteligencia Artificial completa, además ejecuta tareas que ya vienen especificadas en el codigo, las recibe por voz y responde por voz, ambas formas.
+
+<!-- Estadisticas impresionantes -->
+<!-- Logros destacados -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosueDark&repo=lia-simulacion-ia)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [Snake Game](enlace-al-proyecto-2)
-Otra descripción fascinante y descriptiva. ¡Asegúrate de resaltar tus contribuciones clave y los desafíos superados!
+Clon del juegos Snake, con una interfaz intuitiva y agilidad en los controles, se puede modificar el comportamiento del juego por medio de una GUI que permite no solo cambiar la velocidad o cosas basicas, tambien permite cambiar el color de la serpiente, la fruta, ademas pertime registrar el nombre del usuario para guardar su progreso.
+
+<!-- Estadisticas impresionantes -->
+<!-- Logros destacados -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JosueDark&repo=juego-snake-python)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -59,24 +72,28 @@ Otra descripción fascinante y descriptiva. ¡Asegúrate de resaltar tus contrib
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosueDark&show_icons=true&theme=dracula)
 
+<!-- Agregar otra card Diferente -->
+
 ## 🌱 Actualmente Aprendiendo
 
 Me encuentro en una emocionante jornada de aprendizaje constante. Algunas de las tecnologías que estoy explorando actualmente incluyen:
 
 - C++
 - Machine Learning con TensorFlow
-- Desarrollo de aplicaciones moviles
+- Go
 
-## 🌐 Social
+<div style="display:flex; justify-content: space-between; margin: 35px 0;">
+    <div style="padding:20px; width: 120px; display:flex;border: 4px solid #85d;flex-direction: column; background-color: #333; border-radius: 10px;"><img src="assets/codepen.svg">
+    <div style="background-color: #fff;width: 100%; height: 5px;"><div style="width:25%; height: 5px; background-color: #85d;"></div></div>
+    <span align="center" style="margin: 10px 0 0 0;">25%</span></div>
+    <div style="padding:20px; width: 120px; display:flex; border: 4px solid #394; flex-direction: column; background-color: #333; border-radius: 10px;"><img src="assets/codepen.svg">
+    <div style="background-color: #fff;width: 100%; height: 5px;"><div style="width:40%; height: 5px; background-color: #394;"></div></div>
+    <span align="center" style="margin: 10px 0 0 0;">40%</span></div>
+    <div style="padding:20px; width: 120px; display:flex; border:4px solid #f05; flex-direction: column; background-color: #333; border-radius: 10px;"><img src="assets/codepen.svg">
+    <div style="background-color: #fff;width: 100%; height: 5px;"><div style="width:30%; height: 5px; background-color: #f05;"></div></div>
+    <span align="center" style="margin: 10px 0 0 0;">30%</span></div>
+</div>
 
-- [LinkedIn](enlace-a-linkedin)
-- [Twitter](enlace-a-twitter)
-- [Codepen](enlace-a-condepen)
-- [Web](enlace-a-mi-web)
-
-## ⚡ Datos Interesantes
-
-- Soy un entusiasta del deporte y practico Parkour.
-- Aprendo rapido porque esto es lo que me apasiona.
-
-¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. ¡Hagamos cosas asombrosas juntos! 🚀
+<!-- Poner tres imagenes sobre lo que me encuentro aprendiendo -->
+---
+<p style="font-size: 36px;" align="center" >En el mundo 🌍 de la tecnología 💻 nunca se para de aprender 📈 (a menos que mueras 🫠).</p>
