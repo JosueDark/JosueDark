@@ -82,18 +82,6 @@ Me encuentro en una emocionante jornada de aprendizaje constante. Algunas de las
 - Machine Learning con TensorFlow
 - Go
 
-<div style="display:flex; justify-content: space-between; margin: 35px 0;">
-    <div style="padding:20px; width: 120px; display:flex;border: 4px solid #85d;flex-direction: column; background-color: #333; border-radius: 10px;"><img src="assets/codepen.svg">
-    <div style="background-color: #fff;width: 100%; height: 5px;"><div style="width:25%; height: 5px; background-color: #85d;"></div></div>
-    <span align="center" style="margin: 10px 0 0 0;">25%</span></div>
-    <div style="padding:20px; width: 120px; display:flex; border: 4px solid #394; flex-direction: column; background-color: #333; border-radius: 10px;"><img src="assets/codepen.svg">
-    <div style="background-color: #fff;width: 100%; height: 5px;"><div style="width:40%; height: 5px; background-color: #394;"></div></div>
-    <span align="center" style="margin: 10px 0 0 0;">40%</span></div>
-    <div style="padding:20px; width: 120px; display:flex; border:4px solid #f05; flex-direction: column; background-color: #333; border-radius: 10px;"><img src="assets/codepen.svg">
-    <div style="background-color: #fff;width: 100%; height: 5px;"><div style="width:30%; height: 5px; background-color: #f05;"></div></div>
-    <span align="center" style="margin: 10px 0 0 0;">30%</span></div>
-</div>
-
 <!-- Poner tres imagenes sobre lo que me encuentro aprendiendo -->
 ---
 <p style="font-size: 36px;" align="center" >En el mundo 🌍 de la tecnología 💻 nunca se para de aprender 📈 (a menos que mueras 🫠).</p>
